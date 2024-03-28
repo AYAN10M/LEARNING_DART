@@ -1,1 +1,5 @@
 SDK: Software Development Kit
+
+Like all the programmning language dart follows "bodmas" too.
+
+Variable means thing which can vary. It's a conatiner where we can store data of different data types
